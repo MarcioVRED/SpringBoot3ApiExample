@@ -23,8 +23,7 @@ O layout da aplicação mobile está disponível neste link: <a href="https://ww
 
 ## 📄 Documentação
 
-A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello</a>
-
+/v3/apidocs
 ---
 
 ## 🛠 Tecnologias
@@ -43,8 +42,6 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 ## 📝 Licença
 
-Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de Spring Boot.
-
-Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
+MIT
 
 ---
